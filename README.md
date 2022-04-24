@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/lucasBSCode"><img src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=1x1" width="400" alt="Lucas Barreto's Dev Card"/></a>
+
+<p>- 🌱 I’m currently learning</p>
+<ul> 
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>JS</li>
+  <li>REACT.js</li>
+
+</ul>
