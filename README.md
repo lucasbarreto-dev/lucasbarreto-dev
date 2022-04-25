@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
- <h1 align="center">Hi there 👋</h1> 
- <ul>
-  <li>I'm Lucas Barreto.</li>
-  <li>Living currently in Fortaleza, Ceará</li>
-  <li>Studying web development at Trybe</li>
- </ul> 
- <hr>
+<h1>Hi there 👋</h1> 
+
+<p>I am Lucas Barreto. A 29 y/o and grateful man starting a new carrer.</p>
+<p>I'm living currently in Fortaleza, Ceará and studying web development at Trybe.</p>
+<p>I love JS, music and german language.</p>
+<p>Currently learning React.js.</p>
+<hr>
  
 
 <!--
