@@ -1,8 +1,15 @@
-<!-- <div id="header" align="center">
+<!--  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
- <h1 align="center">Hi there 👋</h1> -->
+ <h1 align="center">Hi there 👋</h1> 
+ <ul>
+  <li>I'm Lucas Barreto.</li>
+  <li>Living currently in Fortaleza, Ceará</li>
+  <li>Studying web development at Trybe</li>
+ </ul> 
+ <hr>
+ 
 
 <!--
 **lucasbarreto92/lucasbarreto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
