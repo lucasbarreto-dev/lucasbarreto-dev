@@ -1,16 +1,16 @@
-<!--  <div id="header" align="center">
+<h1>Hi there 👋</h1>
+
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
+</div>
 
-<h1>Hi there 👋</h1> 
-
-<p>I am Lucas Barreto. A 29 y/o and grateful man starting a new carrer.</p>
+<p>I am Lucas Barreto. A 29 y/o man starting a new carrer.</p>
 <p>I'm living currently in Fortaleza, Ceará and studying web development at Trybe.</p>
 <p>I love JS, music and german language.</p>
 <p>Currently learning React.js.</p>
+
 <hr>
  
-
 <!--
 **lucasbarreto92/lucasbarreto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,15 +41,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto92)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <a href="https://app.daily.dev/lucasBSCode" align="right"><img src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=1x1" width="400" alt="Lucas Barreto's Dev Card"/></a> -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasbarreto92&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- 
+<div>
+  <a href="https://app.daily.dev/lucasBSCode" float="right"><img src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=1x1"      width="40%" alt="Lucas Barreto's Dev Card"/></a>
+</div>   -->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div display="grid">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="120px" height="120px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="130px" height="130px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="150px" height="150px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="150px" height="150px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="130px" height="130px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="130px" height="130px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="90px" height="90px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="90px" height="90px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="70px">
 </div>
