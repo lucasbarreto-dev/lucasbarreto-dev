@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p>I am Lucas Barreto. A 29 y/o man starting a new carrer.</p>
+<p>I am Lucas. A 29 y/o man starting a new carrer.</p>
 <p>I'm living currently in Fortaleza, Ceará and studying web development at Trybe.</p>
 <p>I love JS, music and german language.</p>
 <p>Currently learning React.js.</p>
