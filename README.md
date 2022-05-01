@@ -59,3 +59,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="70px" height="70px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="70px">
 </div>
+
+<hr>
+
+### Contact me:
+<a href="https://www.linkedin.com/in/lucas-barreto-/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="20%" height="15%">
