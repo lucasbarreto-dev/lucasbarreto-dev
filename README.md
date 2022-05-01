@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Contact me:
-<a href="https://www.linkedin.com/in/lucas-barreto-/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="20%" height="15%">
+<!-- ### Contact me:
+<a href="https://www.linkedin.com/in/lucas-barreto-/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="20%" height="15%"> -->
