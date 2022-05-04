@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasbarreto92&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- 
 <div>
-  <a href="https://app.daily.dev/lucasBSCode" float="right"><img src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=1x1"      width="40%" alt="Lucas Barreto's Dev Card"/></a>
-</div>   -->
-
+  <a href="https://app.daily.dev/lucasBSCode" float="right"><img src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=rlh"      width="40%" alt="Lucas Barreto's Dev Card"/></a>
+</div>  
+ -->
 ### :hammer_and_wrench: Languages and Tools :
 <div display="grid">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70px" height="70px">
