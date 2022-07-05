@@ -40,14 +40,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto92)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasbarreto92&theme=dark&background=000000)](https://git.io/streak-stats)
-<!-- 
-<div>
-  <a href="https://app.daily.dev/lucasBSCode" float="right"><img src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=rlh"      width="40%" alt="Lucas Barreto's Dev Card"/></a>
-</div>  
- -->
+<div text-align="center">
+  <div display="inline-block">
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasbarreto92&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
+<!--   <div display="inline-block">
+    <a href="https://app.daily.dev/lucasBSCode">
+      <img display="inline-block" src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=rlh" width="30%" alt="Lucas Barreto's Dev Card"/>
+    </a>
+  </div>   -->
+</div>
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div display="grid">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="70px">
