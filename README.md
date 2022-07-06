@@ -11,12 +11,23 @@ I'm currently studying web development at Trybe.</br>
 I love JS, music and german language.</br>
 Currently learning React.js.</p>
 
-<h3>Let's Get In Touch! </h3>
+### Contact me:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbs.code@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-/)
 
-<!-- <hr> -->
+### :hammer_and_wrench: Languages and Tools :
+<div display="grid">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="90px" height="90px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="90px" height="90px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="70px" height="70px">
+</div>
  
 <img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <!--
@@ -64,19 +75,6 @@ Here are some ideas to get you started:
       <img display="inline-block" src="https://api.daily.dev/devcards/070c5a177f4249ebad9ee0307f933254.png?r=rlh" width="30%" alt="Lucas Barreto's Dev Card"/>
     </a>
   </div>   -->
-</div>
-  
-### :hammer_and_wrench: Languages and Tools :
-<div display="grid">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="90px" height="90px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="90px" height="90px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="70px" height="70px">
 </div>
 
 <!-- <hr> -->
