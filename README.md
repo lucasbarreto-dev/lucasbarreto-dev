@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
    <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasbarreto92&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-  <img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
