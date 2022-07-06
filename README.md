@@ -18,7 +18,7 @@ Currently learning React.js.</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div display="grid">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80px" height="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80px" height="80px">
