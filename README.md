@@ -29,7 +29,7 @@ Currently learning React.js.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="70px" height="70px">
 </div>
  
-<img align="right" width="300" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <!--
 **lucasbarreto92/lucasbarreto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
