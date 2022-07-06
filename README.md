@@ -28,24 +28,11 @@ Currently learning React.js.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="70px" height="70px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="70px" height="70px">
 </div>
- 
-<img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<hr>
+<br>
+<br>
+
 <!--
-**lucasbarreto92/lucasbarreto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- <!--
 **lucasbarreto92/lucasbarreto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -62,8 +49,10 @@ Here are some ideas to get you started:
 
 <div text-align="center">
   <div display="inline-block">
-    
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+  
+   <img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
    <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasbarreto92&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
