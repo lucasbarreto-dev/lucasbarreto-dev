@@ -11,7 +11,7 @@ I'm currently studying web development at Trybe.</br>
 I love JS, music and german language.</br>
 Currently learning React.js.</p>
 
-### Contact me:
+### Contact Me:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbs.code@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-/)
