@@ -5,17 +5,20 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<h1>About Me:</h1>
 <p>I am Lucas. A 29 y/o man starting a new carrer.</br>
 I'm currently studying web development at Trybe.</br>
 I love JS, music and german language.</br>
 Currently learning React.js.</p>
+
+<h3>Let's Get In Touch! </h3>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbs.code@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-/)
 
 <!-- <hr> -->
  
+<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <!--
 **lucasbarreto92/lucasbarreto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
