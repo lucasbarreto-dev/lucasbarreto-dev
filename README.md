@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 <p>I am Lucas. A 29 y/o man starting a new carrer.</br>
 I'm currently studying web development at Trybe.</br>
 I love JS, music and german language.</br>
