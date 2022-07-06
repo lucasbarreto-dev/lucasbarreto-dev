@@ -18,15 +18,15 @@ Currently learning React.js.</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div display="grid">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="90px" height="90px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="90px" height="90px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80px" height="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80px" height="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="60px" height="60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60px" height="60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="60px" height="60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="60px" height="60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="60px" height="60px">
 </div>
 <hr>
 <br>
