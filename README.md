@@ -1,17 +1,20 @@
-<h1>Hi there 👋</h1>
+<!-- <h1>Hi there 👋</h1> -->
+![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
-<div id="header" align="left">
+<!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
-<p>I am Lucas. A 29 y/o man starting a new carrer.</p>
-<p>I'm living currently in Fortaleza, Ceará and studying web development at Trybe.</p>
-<p>I love JS, music and german language.</p>
-<p>Currently learning React.js.</p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<p>I am Lucas. A 29 y/o man starting a new carrer.</br>
+I'm currently studying web development at Trybe.</br>
+I love JS, music and german language.</br>
+Currently learning React.js.</p>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbs.code@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-/)
-<hr>
+
+<!-- <hr> -->
  
 <!--
 **lucasbarreto92/lucasbarreto92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
