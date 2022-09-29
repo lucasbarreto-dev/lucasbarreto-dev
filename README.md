@@ -10,7 +10,7 @@
 I'm currently studying web development at Trybe.</br>
 I love JS, music and german language.</br>
 I've been learning React.js for the last months</br>
-And now I'm currently learning back-end development.</p>
+and now I'm currently learning back-end development.</p>
 
 ### Contact Me:
 
@@ -23,11 +23,12 @@ And now I'm currently learning back-end development.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80px" height="80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80px" height="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="60px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="60px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="60px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="60px" height="60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="60px" height="60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="80px">
 </div>
 <hr>
 <br>
