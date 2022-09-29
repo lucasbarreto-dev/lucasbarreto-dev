@@ -6,10 +6,11 @@
 </div> -->
 
 <h1>About Me:</h1>
-<p>I am Lucas. A 29 y/o man starting a new carrer.</br>
+<p>I'm Lucas. A 29 y/o new developer.</br>
 I'm currently studying web development at Trybe.</br>
 I love JS, music and german language.</br>
-Currently learning React.js.</p>
+I've been learning React.js for the last months</br>
+And now I'm currently learning back-end development.</p>
 
 ### Contact Me:
 
