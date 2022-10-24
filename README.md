@@ -8,9 +8,8 @@
 <h1>About Me:</h1>
 <p>I'm Lucas. A 29 y/o new developer.</br>
 I'm currently studying web development at Trybe.</br>
-I love JS, music and german language.</br>
-I've been learning React.js for the last months</br>
-and now I'm currently learning Docker, SQL and other technologies concerning to back-end development.</p>
+I love JS, music, german language and sharing experiences and knowledge.</br>
+I've been learning React.js for the last months and now I'm currently learning Docker, SQL and other technologies concerning to back-end development.</p>
 
 ### Contact Me:
 
