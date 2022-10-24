@@ -10,7 +10,7 @@
 I'm currently studying web development at Trybe.</br>
 I love JS, music and german language.</br>
 I've been learning React.js for the last months</br>
-and now I'm currently learning back-end development.</p>
+and now I'm currently learning Docker, SQL and other technologies concerning to back-end development.</p>
 
 ### Contact Me:
 
