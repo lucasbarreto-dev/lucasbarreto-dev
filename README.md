@@ -9,8 +9,8 @@
 <p>I'm Lucas. A 29 y/o new developer.</br>
 I'm currently studying web development at Trybe.</br>
 I love JS, music, german language and sharing experiences and knowledge.</br>
-I've been learning React.js for the last months and now I'm currently learning Docker, SQL </br>
-and other technologies concerning to back-end development.</p>
+I've been learning React.js for the last months and I'm currently learning Docker, SQL </br>
+and other technologies concerning to back end development.</p>
 
 ### Contact Me:
 
