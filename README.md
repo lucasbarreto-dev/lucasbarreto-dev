@@ -29,6 +29,8 @@ and other technologies concerning to back end development.</p>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="60px" height="60px"> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="60px" height="60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="70px" height="70px">
+ 
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="100px" height="100px"> -->
 </div>
 <hr>
