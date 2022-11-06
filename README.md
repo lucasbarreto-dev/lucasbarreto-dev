@@ -9,8 +9,8 @@
 <p>I'm Lucas. A 29 y/o new developer.</br>
 I'm currently studying web development at Trybe.</br>
 I love JS, music, german language and sharing experiences and knowledge.</br>
-I've been learning React.js for the last months and I'm currently learning Docker, SQL </br>
-and other technologies concerning to back end development.</p>
+I've been learning React.js for the last months and I'm currently learning Docker, SQL, </br>
+Node.js and other technologies concerning to back end development.</p>
 
 ### Contact Me:
 
@@ -19,18 +19,22 @@ and other technologies concerning to back end development.</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div display="grid">
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70px" height="60px"> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="105px" height="70px">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80px" height="80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80px" height="80px">
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80px" height="80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80px" height="80px"> -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="60px" height="60px"> -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="60px" height="60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="80px" height="60px">
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60px" height="60px"> -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="60px" height="60px"> -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="60px" height="60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="80px">
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="60px" height="60px"> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="70px">
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="90px" height="70px"> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="70px" height="70px">
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="100px" height="100px">
+  
+  
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="100px" height="100px"> -->
 </div>
 <hr>
