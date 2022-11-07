@@ -1,4 +1,6 @@
-<!-- <h1>Hi there 👋</h1> -->
+ <h1>Hi there 👋</h1> 
+ <p>I'm Lucas. A 29 y/o JS developer.</br>
+I study web development at Trybe.</br>
 <!--![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png) -->
 
 <!-- <div id="header" align="left">
@@ -6,11 +8,17 @@
 </div> -->
 
 <h1>About Me:</h1>
-<p>I'm Lucas. A 29 y/o new developer.</br>
-I'm currently studying web development at Trybe.</br>
-I love JS, music, german language and sharing experiences and knowledge.</br>
-I've been learning React.js for the last months and I'm currently learning Docker, SQL, </br>
-Node.js and other technologies concerning to back end development.</p>
+I love JS, music, german language and meeting new people who share interests 
+and whoever is interested in sharing experiences.</br>
+
+
+- 🌱 I've been learning React.js in the first half of 2022, but now I'm currently learning Docker, SQL, </br>
+Node.js and other technologies concerning to back end development.
+- 🤔 I’m looking for help with learning backend development and finding out new things on technology and applied science to software development. 
+- 👯 I’m looking to collaborate with other students and on open source projects. 
+- 🔭 I’m interested in making part of a community where I might learn and collaborate in the future.
+- ⚡ I love playing piano, guitar, watching some animes, comedy TV Series, travelling, learning other languages (it doesn't matter if these are programming languages or not) and talk about science and many cultural stuffs like all Matrix Movies and Queen, the first band I became a fan. ;)
+</p>
 
 ### Contact Me:
 
@@ -46,10 +54,11 @@ Node.js and other technologies concerning to back end development.</p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ... -->
+
+<!--
+
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
