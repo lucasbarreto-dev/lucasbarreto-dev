@@ -1,5 +1,5 @@
  <h1>Hi there 👋</h1> 
- <p>I'm Lucas. I'm a JS developerand and I study web development at Trybe.</p>
+ <p>I'm Lucas. I'm a JS developer and I study web development at Trybe.</p>
 <!--![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png) -->
 
 <!-- <div id="header" align="left">
