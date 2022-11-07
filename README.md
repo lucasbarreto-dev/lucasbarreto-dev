@@ -1,5 +1,5 @@
  <h1>Hi there 👋</h1> 
- <p>I'm Lucas. I'm a JS developer and I study web development at Trybe.</p>
+ <p>I'm Lucas and I'm a JS developer currently studying at Trybe. 🙂 </p>
 <!--![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png) -->
 
 <!-- <div id="header" align="left">
@@ -16,8 +16,9 @@ Node.js and other technologies concerning to back end development.
 - 🤔 I’m looking for help with learning backend development and finding out new things on technology and applied science to software development. 
 - 👯 I’m looking to collaborate with other students and on open source projects. 
 - 🔭 I’m interested in making part of a community where I might learn and collaborate in the future.
-- ⚡ I love playing piano, guitar, watching some animes, comedy TV Series, travelling, learning other languages (it doesn't matter if these are programming languages or not) and talk about science and many cultural stuffs like all Matrix Movies and Queen, the first band I became a fan. ;)
-</p>
+- ⚡ I love playing piano, guitar, travelling, learning other languages (it doesn't matter if these are programming languages or not) and talking about science and many cultural stuffs.
+- 🎧 I hear Rock and Classical music. I've been listening to Bach, Mozart, Haydn, Travis, Keane, Coldplay, Jack Johnson and most importantly: Queen, the first band I became a fan 😁
+- 🍿 All Matrix Movies (the 4th not so much, but it's ok), Jackie Chan movies, comedy movies/TV Series/animes, documentaries about history, science and arts and stand up comedy. </p>
 
 ### Contact Me:
 
