@@ -23,6 +23,7 @@ Node.js, Express.js and other technologies concerning to back end development.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbs.code@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucasbarreto92)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div display="grid">
@@ -38,7 +39,7 @@ Node.js, Express.js and other technologies concerning to back end development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="70px">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="90px" height="70px"> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="70px" height="70px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="70px" height="70px">
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="70px" height="70px"> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100px" height="70px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="100px" height="100px">
   
