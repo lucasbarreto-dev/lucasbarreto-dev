@@ -16,7 +16,7 @@ Node.js, Express.js and other technologies concerning to back end development.
 - 👯 I want to collaborate with other students and on open source projects. 
 - 🔭 I’m interested in making part of a community where I might learn and collaborate with.
 - ⚡ I love playing piano, guitar, travelling, learning other languages (it doesn't matter if these are programming languages or not) and talking about science and many cultural stuffs.
-- 🎧 I listen to Rock and Classical music. I've been listening to Bach, Mozart, Haydn, Travis, Keane, Coldplay, Jack Johnson and most importantly: Queen, the first favorite band 😁
+- 🎧 I listen to Rock and Classical music. I've been listening to Bach, Mozart, Haydn, Travis, Keane, Coldplay, Jack Johnson and most importantly: Queen, my first favorite band 😁
 - 🍿 All Matrix Movies (the 4th not so much, but it's ok), Jackie Chan movies, Disney, Pixar, comedy movies/TV Series/animes, documentaries about history, science and arts and stand up comedy. </p>
 
 ### Contact Me:
