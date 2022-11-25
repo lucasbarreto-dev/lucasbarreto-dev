@@ -1,5 +1,5 @@
  <h1>Hi there 👋</h1> 
- <p>I'm Lucas and I'm a JS developer currently studying at Trybe. 🙂 </p>
+ <p>JS developer currently studying at Trybe. 🙂 </p>
 <!--![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png) -->
 
 <!-- <div id="header" align="left">
@@ -10,7 +10,7 @@
 I love Javascript, music, german language and meeting new people who wants to share interests and experiences.</br>
 </br>
 
-- 🌱 I've been learning React.js in the first half of 2022, but now I'm currently learning Docker, SQL, </br>
+- 🌱 I've been learning React.js in the first half of 2022, but I'm currently learning Docker, SQL, </br>
 Node.js, Express.js and other technologies concerning to back end development.
 - 🤔 I’m looking for help with learning backend development and finding out new things on technology and applied science to software development. 
 - 👯 I want to collaborate with other students and on open source projects. 
