@@ -7,18 +7,17 @@
 </div> -->
 
 <h1>About Me:</h1>
-I love JS, music, german language and meeting new people who share interests 
-and whoever is interested in sharing experiences.</br>
-
+I love Javascript, music, german language and meeting new people who wants to share interests and experiences.</br>
+</br>
 
 - 🌱 I've been learning React.js in the first half of 2022, but now I'm currently learning Docker, SQL, </br>
-Node.js and other technologies concerning to back end development.
+Node.js, Express.js and other technologies concerning to back end development.
 - 🤔 I’m looking for help with learning backend development and finding out new things on technology and applied science to software development. 
-- 👯 I’m looking to collaborate with other students and on open source projects. 
-- 🔭 I’m interested in making part of a community where I might learn and collaborate in the future.
+- 👯 I want to collaborate with other students and on open source projects. 
+- 🔭 I’m interested in making part of a community where I might learn and collaborate with.
 - ⚡ I love playing piano, guitar, travelling, learning other languages (it doesn't matter if these are programming languages or not) and talking about science and many cultural stuffs.
-- 🎧 I hear Rock and Classical music. I've been listening to Bach, Mozart, Haydn, Travis, Keane, Coldplay, Jack Johnson and most importantly: Queen, the first band I became a fan 😁
-- 🍿 All Matrix Movies (the 4th not so much, but it's ok), Jackie Chan movies, comedy movies/TV Series/animes, documentaries about history, science and arts and stand up comedy. </p>
+- 🎧 I listen to Rock and Classical music. I've been listening to Bach, Mozart, Haydn, Travis, Keane, Coldplay, Jack Johnson and most importantly: Queen, the first favorite band 😁
+- 🍿 All Matrix Movies (the 4th not so much, but it's ok), Jackie Chan movies, Disney, Pixar, comedy movies/TV Series/animes, documentaries about history, science and arts and stand up comedy. </p>
 
 ### Contact Me:
 
@@ -39,6 +38,7 @@ Node.js and other technologies concerning to back end development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="70px">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="90px" height="70px"> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="70px" height="70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="70px" height="70px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100px" height="70px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="100px" height="100px">
   
