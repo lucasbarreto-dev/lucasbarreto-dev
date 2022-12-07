@@ -26,7 +26,7 @@
   <p>Adoro Javascript, música, língua alemã e conhecer novas pessoas que querem compartilhar interesses e experiências.</p>
   </br>
 
-  - 🌱 Estive aprendendo React.js na primeira metade de 2022, mas estou atualmente aprendendo Docker, MySQL, </br>
+  - 🌱 Estive aprendendo React.js na primeira metade de 2022, mas estou atualmente aprendendo Docker, MySQL,
 Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back End.
   - 🤔 Estou procurando por ajuda com o aprendizado de Back End e descobrir coisas novas sobre tecnologias e ciência aplicada ao desenvolvimento de software. 
   - 👯 Quero colaborar com outras pessoas estudantes e em projetos open source. 
