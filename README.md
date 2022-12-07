@@ -1,6 +1,6 @@
 
 <details>
-  <summary>:brazil: Versão em português</summary>
+  <summary>:brazil: <b>Versão em português</b></summary>
 
   <h1>Oi, galera! 👋</h1> 
   <div id="header" align="left">
@@ -63,7 +63,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
  </div>
 </details>
 <details open>
-  <summary>🇬🇧 Versão em inglês</summary>
+  <summary>🇬🇧 <b>Versão em inglês</b></summary>
 
   <h1>Hi there 👋</h1> 
   <div id="header" align="left">
