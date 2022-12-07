@@ -70,7 +70,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div> 
  
-  <p>I'm a web developer and started my studies formally at Trybe in November 2021. Since then I've been developing projects in Front End and Back End stacks, solving real life coding problems.</p>
+  <p>I'm a web developer and started my studies formally at Trybe in November 2021. Since then, I've been developing projects in Front End and Back End stacks, solving real life coding problems.</p>
  
   <p> I'm familiar to: </p>
   <ul>
@@ -82,7 +82,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
     <li> MySQL 
   </ul>
   
-  <p>I'm focusing on Back End development, learning to create Rest API's with Express and software architecture built in layers (Model, Service and Controllers) 🙂.</p>
+  <p>I'm focusing on Back End development, learning to create Rest API's with Express applying software architecture built in layers (Model, Services and Controllers) 🙂.</p>
 
   <h1>About Me:</h1>
   <p>I love Javascript, music, german language and meeting new people who wants to share interests and experiences.</p>
