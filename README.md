@@ -12,12 +12,13 @@
  
   <p> Sou familiarizado com:</p>
   <ul>
-    <li> Sistemas Operacionais baseados em UNIX 
-    <li> Javascript ES 6 
-    <li> React.js
-    <li> Node.js 
-    <li> Docker 
-    <li> MySQL 
+    <li> Sistemas Operacionais baseados em UNIX </li>
+    <li> Javascript ES 6 </li>
+    <li> React.js </li>
+    <li> Node.js </li>
+    <li> Docker </li>
+    <li> MySQL </li>
+    <li> TypeScript </li>
   </ul>
   
   <p>Estou focando em desenvolvimento Back End, aprendendo a construir API's Rest com o framework Express no ambiente Node.js e usando arquitetura de software em camadas (Model, Service and Controllers) 🙂.</p> 
@@ -74,12 +75,13 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
  
   <p> I'm familiar to: </p>
   <ul>
-    <li> UNIX based Operating Systems 
-    <li> Javascript ES 6 
-    <li> React.js
-    <li> Node.js 
-    <li> Docker 
-    <li> MySQL 
+    <li> UNIX based Operating Systems </li>
+    <li> Javascript ES 6 </li>
+    <li> React.js </li>
+    <li> Node.js </li>
+    <li> Docker </li>
+    <li> MySQL </li>
+    <li> TypeScript </li>
   </ul>
   
   <p>I'm focusing on Back End development, learning to create Rest API's with Express applying software architecture built in layers (Model, Services and Controllers) 🙂.</p>
