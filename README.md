@@ -45,6 +45,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="105px" height="70px">  
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="80px" height="60px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60px" height="60px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="70px" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100px" height="70px">
@@ -108,6 +109,7 @@ Node.js, Express.js and other technologies concerning to back end development.
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="105px" height="70px">  
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="80px" height="60px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60px" height="60px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80px" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="70px" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="100px" height="70px">
