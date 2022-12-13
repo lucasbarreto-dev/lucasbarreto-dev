@@ -126,7 +126,7 @@ Node.js, Express.js and other technologies concerning to back end development.
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
     
-   ![Snake animation](https://github.com/lucasbarreto92/blob/output/github-contribution-grid-snake.svg)
+   <!-- ![Snake animation](https://github.com/lucasbarreto92/blob/output/github-contribution-grid-snake.svg) -->
  </div>
 </details>
 
