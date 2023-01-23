@@ -10,19 +10,19 @@
   <p>Sou desenvolvedor de software para a web e iniciei meus estudos formalmente na Trybe em Novembro de 2021. Desde então, venho desenvolvendo projetos nas stacks Front End e Back End, resolvendo problemas de programação da vida real.</p>
   
  
-  <p> Sou familiarizado com:</p>
+  <p> Sou familiarizado com: </p>
   <ul>
     <li> Sistemas Operacionais baseados em UNIX </li>
-    <li> Javascript ES 6 </li>
+    <li> Javascript ES5 e ES6 </li>
     <li> React.js </li>
     <li> Node.js </li>
     <li> Docker </li>
     <li> MySQL </li>
     <li> Sequelize </li>
-    <li> TypeScript </li>
+<!--     <li> TypeScript </li> -->
   </ul>
   
-  <p>Estou focando em desenvolvimento Back End, aprendendo a construir API's Rest com o framework Express no ambiente Node.js e usando arquitetura de software em camadas (Model, Service and Controllers) 🙂.</p> 
+  <p>Construo API's Rest com Node.js e Express.js aplicando arquitetura de software em camadas (Model, Service e Controllers) e autenticação usando JSON Web Token, comunicando o app e o banco de dados usando um ORM ou o próprio MySQL e também posso implementar middlewares para validar os dados recebidos do lado do cliente para o backend de uma aplicação Dockerizada. 🙂.</p> 
   
   <h1>Sobre Mim:</h1>
   <p>Adoro Javascript, música, língua alemã e conhecer novas pessoas que querem compartilhar interesses e experiências.</p>
@@ -45,7 +45,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
   <div display="grid">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="80px" height="60px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60px" height="60px">
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60px" height="60px"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="115px" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width"60px" height="60px"><br />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="105px" height="75px">
@@ -80,16 +80,16 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
   <p> I'm familiar to: </p>
   <ul>
     <li> UNIX based Operating Systems </li>
-    <li> Javascript ES 6 </li>
+    <li> Javascript ES5 and ES6 </li>
     <li> React.js </li>
     <li> Node.js </li>
     <li> Docker </li>
     <li> MySQL </li>
     <li> Sequelize </li>
-    <li> TypeScript </li>
+<!--     <li> TypeScript </li> -->
   </ul>
   
-  <p>I'm focusing on Back End development, learning to create Rest API's with Express applying software architecture built in layers (Model, Services and Controllers) 🙂.</p>
+  <p>I build Rest API's with Node.js and Express.js applying software architecture built in layers (Model, Service and Controllers) and authentication using JSON Web Token, communicating the app and the database using an ORM or MySQL itself, and I can also implement middlewares in order to validate the received data from the client side, for the backend of a Dockerized application. 🙂.</p>
 
   <h1>About Me:</h1>
   <p>I love Javascript, music, german language and meeting new people who wants to share interests and experiences.</p>
@@ -112,7 +112,7 @@ Node.js, Express.js and other technologies concerning to back end development.
   <div display="grid">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60px" height="60px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="80px" height="60px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60px" height="60px">
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60px" height="60px"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="115px" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width"60px" height="60px"><br />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="105px" height="75px">
