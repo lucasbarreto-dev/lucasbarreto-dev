@@ -61,10 +61,10 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
 
   <div text-align="center">
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
    <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 </details>
@@ -129,10 +129,10 @@ Node.js, Express.js and other technologies concerning to back end development.
 
   <div text-align="center">
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
    <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto92&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
     
    <!-- ![Snake animation](https://github.com/lucasbarreto92/blob/output/github-contribution-grid-snake.svg) -->
  </div>
