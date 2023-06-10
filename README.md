@@ -21,6 +21,7 @@
     <li> Sequelize </li>
     <li> TypeScript </li>
     <li> POO </li>
+    <li> Python </li>
   </ul>
   
   <p>Construo API's Rest com Node.js e Express.js aplicando arquitetura de software em camadas (Model, Service e Controllers) e autenticação usando JSON Web Token, comunicando o app e o banco de dados usando um ORM ou o próprio MySQL e também posso implementar middlewares para validar os dados recebidos do lado do cliente para o backend de uma aplicação Dockerizada. 🙂.</p> 
@@ -89,6 +90,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
     <li> Sequelize </li>
     <li> TypeScript </li>
     <li> OOP </li>
+    <li> Python </li>
   </ul>
   
   <p>I build Rest API's with Node.js and Express.js applying software architecture built in layers (Model, Service and Controllers) and authentication using JSON Web Token, communicating the app and the database using an ORM or MySQL itself, and I can also implement middlewares in order to validate the received data from the client side, for the backend of a Dockerized application. 🙂.</p>
