@@ -2,7 +2,7 @@
 <details>
   <summary>:brazil: <b>Versão em português</b></summary>
 
-  <h1>Oi, galera! 👋</h1> 
+  <h1>Bem-vindo! 👋</h1> 
    <div id="header" align="center">
     <!--
     <div id="dev" align="left">
@@ -16,6 +16,9 @@
 
   
   <!-- <div text-align="center"> -->
+  <div align="center">
+    <p><strong>Desenvolvedor Back-End apaixonado por tecnologia e inovação</strong></p>
+  </div> 
   <div align="center">
   <a href="https://github.com/lucasbarreto-dev">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -105,6 +108,9 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
 
   
   <!-- <div text-align="center"> -->
+  <div align="center">
+    <p><strong>Back-End Developer passionate about technology and innovation</strong></p>
+  </div> 
   <div align="center">
   <a href="https://github.com/lucasbarreto-dev">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
