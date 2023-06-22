@@ -2,7 +2,7 @@
 <details>
   <summary>:brazil: <b>Versão em português</b></summary>
 
-  <h1>Bem-vindo! 👋</h1> 
+  <h1>Olá, mundo! 👋</h1> 
    <div id="header" align="center">
     <!--
     <div id="dev" align="left">
@@ -93,7 +93,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
 <details open>
   <summary>🇬🇧 <b>Versão em inglês</b></summary>
 
-  <h1>Hi there 👋</h1>
+  <h1>Hello, world! 👋</h1>
   
   <div id="header" align="center">
     <!--
