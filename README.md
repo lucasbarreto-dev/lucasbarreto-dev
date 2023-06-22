@@ -3,13 +3,16 @@
   <summary>:brazil: <b>Versão em português</b></summary>
 
   <h1>Oi, galera! 👋</h1> 
+  <!--
   <div id="header" align="left">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div> 
- 
+  </div>
+  -->
+  <!--
   <p>Sou desenvolvedor de software para a web e iniciei meus estudos formalmente na Trybe em Novembro de 2021. Desde então, venho desenvolvendo projetos nas stacks Front End e Back End, resolvendo problemas de programação da vida real.</p>
+  -->
   
- 
+  <!--
   <p> Sou familiarizado com: </p>
   <ul>
     <li> Sistemas Operacionais baseados em UNIX </li>
@@ -25,6 +28,7 @@
   </ul>
   
   <p>Construo API's Rest com Node.js e Express.js aplicando arquitetura de software em camadas (Model, Service e Controllers) e autenticação usando JSON Web Token, comunicando o app e o banco de dados usando um ORM ou o próprio MySQL e também posso implementar middlewares para validar os dados recebidos do lado do cliente para o backend de uma aplicação Dockerizada. 🙂.</p> 
+  -->
   
   <h1>Sobre Mim:</h1>
   <p>Adoro Javascript, música, língua alemã e conhecer novas pessoas que querem compartilhar interesses e experiências.</p>
@@ -72,13 +76,26 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
 <details open>
   <summary>🇬🇧 <b>Versão em inglês</b></summary>
 
-  <h1>Hi there 👋</h1> 
+  <h1>Hi there 👋</h1>
+  <!--
   <div id="header" align="left">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div> 
+  </div>
+  -->
+  
+  <!-- <div text-align="center"> -->
+  <div display="grid">
  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+   
+ <!--
   <p>I'm a web developer and started my studies formally at Trybe in November 2021. Since then, I've been developing projects in Front End and Back End stacks, solving real life coding problems.</p>
- 
+ -->
+ <!--
   <p> I'm familiar to: </p>
   <ul>
     <li> UNIX based Operating Systems </li>
@@ -92,8 +109,11 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
     <li> OOP </li>
     <li> Python </li>
   </ul>
+  -->
   
+  <!--
   <p>I build Rest API's with Node.js and Express.js applying software architecture built in layers (Model, Service and Controllers) and authentication using JSON Web Token, communicating the app and the database using an ORM or MySQL itself, and I can also implement middlewares in order to validate the received data from the client side, for the backend of a Dockerized application. 🙂.</p>
+-->
 
   <h1>About Me:</h1>
   <p>I love Javascript, music, german language and meeting new people who wants to share interests and experiences.</p>
@@ -129,14 +149,6 @@ Node.js, Express.js and other technologies concerning to back end development.
   </br>
   </br>
 
-  <div text-align="center">
- 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-   <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-    
-   <!-- ![Snake animation](https://github.com/lucasbarreto92/blob/output/github-contribution-grid-snake.svg) -->
  </div>
 </details>
 
