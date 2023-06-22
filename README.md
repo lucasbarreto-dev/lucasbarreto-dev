@@ -8,10 +8,10 @@
     <div id="dev" align="left">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     </div>
-    -->
     <div id="neo" align="right">
       <img align="right" height="140em" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
     </div>
+     -->
   </div>
 
   
@@ -97,10 +97,10 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
     <div id="dev" align="left">
       <img align="left" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     </div>
-    -->
     <div id="neo" align="right">
       <img align="right" height="140em" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
     </div>
+    -->
   </div>
 
   
@@ -139,7 +139,7 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
   -->
   
   <!--
-  <p>I build Rest API's with Node.js and Express.js applying software architecture built in layers (Model, Service and Controllers) and authentication using JSON Web Token, communicating the app and the database using an ORM or MySQL itself, and I can also implement middlewares in order to validate the received data from the client side, for the backend of a Dockerized application. 🙂.</p>
+  <p>I build Rest APIs with Node.js and Express.js applying software architecture built in layers (Model, Service and Controllers) and authentication using JSON Web Token, communicating the app and the database using an ORM or MySQL itself, and I can also implement middlewares in order to validate the received data from the client side, for the backend of a Dockerized application. 🙂.</p>
 -->
 
   <h1>About Me:</h1>
