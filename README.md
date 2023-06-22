@@ -3,11 +3,25 @@
   <summary>:brazil: <b>Versão em português</b></summary>
 
   <h1>Oi, galera! 👋</h1> 
-  <!--
-  <div id="header" align="left">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   <div id="header" align="center">
+    <!--
+    <div id="dev" align="left">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    </div>
+    -->
+    <div id="neo" align="right">
+      <img align="right" height="140em" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+    </div>
   </div>
-  -->
+
+  
+  <!-- <div text-align="center"> -->
+  <div align="center">
+  <a href="https://github.com/lucasbarreto-dev">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="140em" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  </div>
   <!--
   <p>Sou desenvolvedor de software para a web e iniciei meus estudos formalmente na Trybe em Novembro de 2021. Desde então, venho desenvolvendo projetos nas stacks Front End e Back End, resolvendo problemas de programação da vida real.</p>
   -->
@@ -31,7 +45,7 @@
   -->
   
   <h1>Sobre Mim:</h1>
-  <p>Adoro Javascript, música, língua alemã e conhecer novas pessoas que querem compartilhar interesses e experiências.</p>
+  <p>Adoro Javascript, música, idiomas e conhecer novas pessoas que querem compartilhar interesses e experiências.</p>
   </br>
 
   - 🌱 Estive aprendendo React.js na primeira metade de 2022, mas estou atualmente aprendendo Docker, MySQL,
@@ -77,23 +91,36 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
   <summary>🇬🇧 <b>Versão em inglês</b></summary>
 
   <h1>Hi there 👋</h1>
-  <!--
-  <div id="header" align="left">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <div id="header" align="center">
+    <!--
+    <div id="dev" align="left">
+      <img align="left" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    </div>
+    -->
+    <div id="neo" align="right">
+      <img align="right" height="140em" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+    </div>
   </div>
-  -->
+
   
   <!-- <div text-align="center"> -->
-  <div display="grid">
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+  <a href="https://github.com/lucasbarreto-dev">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="140em" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  </div>
+    
+  <!-- <div display="grid"> -->
+ <!--
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats) 
     <img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarreto-dev&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
    
  <!--
-  <p>I'm a web developer and started my studies formally at Trybe in November 2021. Since then, I've been developing projects in Front End and Back End stacks, solving real life coding problems.</p>
+  <p>I'm a web developer and started my studies formally at Trybe in November 2021. Since then, I've been developing projects in Front End and Back End stacks, solving real-life coding problems.</p>
  -->
  <!--
   <p> I'm familiar to: </p>
@@ -116,13 +143,12 @@ Node.js, Express.js e outras tecnologias concernentes ao desenvolvimento Back En
 -->
 
   <h1>About Me:</h1>
-  <p>I love Javascript, music, german language and meeting new people who wants to share interests and experiences.</p>
+  <p>I love Javascript, music, languages, and meeting new people who want to share interests and experiences.</p>
   </br>
 
-  - 🌱 I've been learning React.js in the first half of 2022, but I'm currently learning Docker, MySQL, </br>
-Node.js, Express.js and other technologies concerning to back end development.
-  - 🤔 I’m looking for help with learning backend development and finding out new things on technology and applied science to software development. 
-  - 👯 I want to collaborate with other students and on open source projects. 
+  - 🌱 I've been learning Docker, MySQL, Node.js, Express.js, Python, and other technologies concerning back-end development and computer science.
+  - 🤔 I’m looking for help with learning back-end development and finding out new things about technology and applied science to software development. 
+  - 👯 I want to collaborate on open-source projects with other students. 
   - 🔭 I’m interested in making part of a community where I might learn and collaborate with.
   - 🎧 I love listening to Rock and Classical music while I'm coding. 
 
